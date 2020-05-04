@@ -9,13 +9,8 @@
     <StackLayout>
         <StackLayout>
             <Button x:Name="Item14" Text="ListViewGrouping"/>
-        </StackLayout>
-        <StackLayout Orientation="Horizontal">
-
-            <StackLayout>
-                <Button x:Name="Item12" Text="ListViewDemo"/>
-                <Button x:Name="Item13" Text="ListviewCode"/>
-            </StackLayout>
+            <Button x:Name="Item12" Text="ListViewDemo"/>
+            <Button x:Name="Item13" Text="ListviewCode"/>
         </StackLayout>
     </StackLayout>
 
