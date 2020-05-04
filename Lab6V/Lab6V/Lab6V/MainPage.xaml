@@ -8,7 +8,7 @@
 
     <StackLayout>
         <StackLayout>
-            <Button x:Name="Item14" Text="ListviewSource"/>
+            <Button x:Name="Item14" Text="ListViewGrouping"/>
         </StackLayout>
         <StackLayout Orientation="Horizontal">
 

@@ -28,7 +28,7 @@ namespace Lab6V
             };
             Item14.Clicked += async (sender, e) =>
             {
-                await Navigation.PushAsync(new ListViewSource());
+                await Navigation.PushAsync(new ListViewGrouping());
 
             };
         }
